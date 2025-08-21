@@ -6,21 +6,22 @@ This project implements a comprehensive Customer Segmentation analysis using RFM
 https://www.kaggle.com/datasets/viridianachow/online-retail-uci-dataset
 It contains information like:
 
-InvoiceNo: Invoice number (unique identifier for each transaction)
-StockCode: Product code
-Description: Product description
-Quantity: Quantity of each product per transaction
-InvoiceDate: Invoice date and time
-UnitPrice: Unit price of product
-CustomerID: Customer identifier
-Country: Country where customer resides
+- InvoiceNo: Invoice number (unique
+identifier for each transaction)
+- StockCode: Product code
+- Description: Product description
+- Quantity: Quantity of each product per transaction
+- InvoiceDate: Invoice date and time
+- UnitPrice: Unit price of product
+- CustomerID: Customer identifier
+- Country: Country where customer resides
 
 ## 🛠️ Tools & Libraries
-Python 3.x
-Pandas – data handling
-Seaborn – data visualization
-Matplotlib – plotting
-Jupyter Notebook – interactive coding
+- Python 3.x
+- Pandas – data handling
+- Seaborn – data visualization
+- Matplotlib – plotting
+- Jupyter Notebook – interactive coding
 
 ## 🔍 Steps Performed
 1. Data Cleaning and Preparation
@@ -47,14 +48,14 @@ Lost Customers
 Developed targeted marketing strategies for each customer segment to maximize engagement and revenue.
 
 ## 📊 Key Insights
-The dataset contains 4,373 unique customers from 38 different countries
-The UK represents the vast majority of customers (over 90%)
-Best Customers represent a small percentage of the customer base but contribute significantly to revenue
-There's a large group of Lost Customers who haven't purchased recently and represent an opportunity for re-engagement campaigns
+- The dataset contains 4,373 unique customers from 38 different countries
+- The UK represents the vast majority of customers (over 90%)
+- Best Customers represent a small percentage of the customer base but contribute significantly to revenue
+- There's a large group of Lost Customers who haven't purchased recently and represent an opportunity for re-engagement campaigns
 
 ## 📜 License
 This project is distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📞 Contact
 **Huzaifa Nawaid**  
-Email: huzaifanawaid.developer@gmail.com 
+Email: nawaidhuzaifa@gmail.com
